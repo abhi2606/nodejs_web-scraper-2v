@@ -10,7 +10,6 @@
   "author": "Abhishek Sahu",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "puppeteer": "^22.11.1"
+    "express": "^4.19.2"
   }
 }

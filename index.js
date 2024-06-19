@@ -1,10 +1,10 @@
-const ASAgarwal =  require("./ASAgarwal");
-const ApexHours = require("./ApexHours");
-const salesforcecodex = require ("./SalesforceCodex");
-const SalesforceDeveloperBlog = require ("./SalesforceDeveloperBlog");
-const SalesforceEngineering =  require ("./SalesforceEngineering");
-const AutomationChampion = require ("./AutomationChampions");
-const SFBenDev = require("./SFBenDev");
+// const ASAgarwal =  require("./ASAgarwal");
+// const ApexHours = require("./ApexHours");
+// const salesforcecodex = require ("./SalesforceCodex");
+// const SalesforceDeveloperBlog = require ("./SalesforceDeveloperBlog");
+// const SalesforceEngineering =  require ("./SalesforceEngineering");
+// const AutomationChampion = require ("./AutomationChampions");
+// const SFBenDev = require("./SFBenDev");
 const express = require("express");
 const articles = require('./allArticles.json')
 
