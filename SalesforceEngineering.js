@@ -3,7 +3,10 @@ const puppeteer = require('puppeteer');
 const url = "https://engineering.salesforce.com/blog/";
 
 const SalesforceEngineering = async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    headless:false,
+    args: ["--no-sandbox"]
+});
   const page = await browser.newPage();
   await page.goto(url);
 
