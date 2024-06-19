@@ -20,6 +20,7 @@ const SalesforceEngineering = async () => {
     });
   }) ;
   //console.log(allArticles);
+  await browser.close();
   return allArticles;
 };
 
