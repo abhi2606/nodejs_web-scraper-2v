@@ -26,5 +26,5 @@ const SalesforceDeveloperBlog = async () => {
   //console.log(allCards);
 };
 
-//SalesforceDeveloperBlog();
+SalesforceDeveloperBlog();
 module.exports =  SalesforceDeveloperBlog ;

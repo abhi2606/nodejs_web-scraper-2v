@@ -1,0 +1,130 @@
+[
+  {
+      "title": "Developing Securely for AppExchange",
+      "url": "https://developer.salesforce.com/blogs/2024/06/developing-securely-for-appexchange.html"
+  },
+  {
+      "title": "Navigate Console Apps from Lightning Web Components with the Workspace API",
+      "url": "https://developer.salesforce.com/blogs/2024/06/navigate-console-apps-from-lightning-web-components-with-the-workspace-api.html"
+  },
+  {
+      "title": "Using Prompt Builder, Flows, and Apex to Summarize and Classify Cases Faster",
+      "url": "https://developer.salesforce.com/blogs/2024/06/using-prompt-builder-flows-and-apex-to-summarize-and-classify-cases-faster.html"
+  },
+  {
+      "title": "How to Use the Amazon Kinesis Connector in Data Cloud",
+      "url": "https://developer.salesforce.com/blogs/2024/06/how-to-use-the-amazon-kinesis-connector-in-data-cloud.html"
+  },
+  {
+      "title": "Find and Track Location in Mobile Apps with LWC’s LocationService API",
+      "url": "https://developer.salesforce.com/blogs/2024/06/find-and-track-location-in-mobile-apps-with-lwcs-locationservice-api.html"
+  },
+  {
+      "title": "Data Cloud + Einstein AI: The Developer’s Pocket Guide",
+      "url": "https://developer.salesforce.com/blogs/2024/05/data-cloud-einstein-ai-the-developers-pocket-guide.html"
+  },
+  {
+      "title": "Prepare for the Google Chrome Privacy Sandbox Initiative",
+      "url": "https://developer.salesforce.com/blogs/2024/05/prepare-for-the-google-chrome-privacy-sandbox-initiative.html"
+  },
+  {
+      "title": "Pub/Sub API Made Easy via Managed Subscriptions (Open Beta)",
+      "url": "https://developer.salesforce.com/blogs/2024/05/pub-sub-api-made-easy-via-managed-subscriptions.html"
+  },
+  {
+      "title": "Choose the Right Salesforce Org for the Right Job",
+      "url": "https://developer.salesforce.com/blogs/2024/05/choose-the-right-salesforce-org-for-the-right-job.html"
+  },
+  {
+      "title": "Parsing JSON from Data Cloud in Marketing Cloud to Support Journey Builder Splits",
+      "url": "https://developer.salesforce.com/blogs/2024/05/parsing-json-from-data-cloud-in-marketing-cloud.html"
+  },
+  {
+      "title": "25 Productivity Tools that Power Salesforce Engineering Teams",
+      "url": "https://engineering.salesforce.com/25-productivity-tools-that-power-salesforce-engineering-teams/"
+  },
+  {
+      "title": "Sales Cloud’s AI Transformation: Welcome to the Autonomous Selling Era",
+      "url": "https://engineering.salesforce.com/sales-clouds-ai-transformation-welcome-to-the-autonomous-selling-era/"
+  },
+  {
+      "title": "Revolutionizing AI: How SageMaker Enhances Salesforce Einstein’s Large Language Model Latency and Throughput",
+      "url": "https://engineering.salesforce.com/revolutionizing-ai-how-sagemaker-enhances-salesforce-einsteins-large-language-model-latency-and-throughput/"
+  },
+  {
+      "title": "Hyperforce Behind the Scenes: Ushering in a New Age of AI-Driven Cloud Scalability",
+      "url": "https://engineering.salesforce.com/hyperforce-behind-the-scenes-ushering-in-a-new-age-of-ai-driven-cloud-scalability/"
+  },
+  {
+      "title": "Revealing Einstein’s Blueprint for Creating the New, Unified AI Platform from Siloed Legacy Stacks",
+      "url": "https://engineering.salesforce.com/revealing-einsteins-blueprint-for-creating-the-new-unified-ai-platform-from-siloed-legacy-stacks/"
+  },
+  {
+      "title": "The New Einstein for Developers Streamlines Your Workflow: Say Goodbye to Time-Consuming Tasks",
+      "url": "https://engineering.salesforce.com/the-new-einstein-for-developers-streamlines-your-workflow-say-goodbye-to-time-consuming-tasks/"
+  },
+  {
+      "title": "Inside Data Cloud’s Secret Formula for Processing One Quadrillion Records Monthly",
+      "url": "https://engineering.salesforce.com/inside-data-clouds-secret-formula-for-processing-one-quadrillion-records-monthly/"
+  },
+  {
+      "title": "The New Einstein Copilot for Tableau: Building the Future of AI-Driven Analytics",
+      "url": "https://engineering.salesforce.com/einstein-copilot-for-tableau-building-the-next-generation-of-ai-driven-analytics/"
+  },
+  {
+      "title": "How We Scaled Salesforce Edge Up to 5 Million Orgs",
+      "url": "https://engineering.salesforce.com/how-we-scaled-salesforce-edge-up-to-5-million-orgs/"
+  },
+  {
+      "title": "In Their Own Words: 15 Salesforce Engineering Innovators Discuss the Art of Problem Solving",
+      "url": "https://engineering.salesforce.com/in-their-own-words-15-salesforce-engineering-innovators-discuss-the-art-of-problem-solving/"
+  },
+  {
+      "title": "Innovating Tableau Pulse: Hurdling AI Integration and Scalability Obstacles for Next-Gen Customer Insights",
+      "url": "https://engineering.salesforce.com/innovating-tableau-pulse-hurdling-ai-integration-and-scalability-obstacles-for-next-gen-customer-insights/"
+  },
+  {
+      "title": "Enhancing AIOps Efficiency: Salesforce’s New Similarity Model Overcomes 4 Major Incident Management Challenges",
+      "url": "https://engineering.salesforce.com/enhancing-aiops-efficiency-salesforces-new-similarity-model-overcomes-4-major-incident-management-challenges/"
+  },
+  {
+      "title": "Ultimate Guide to URL Accessibility in LWC",
+      "url": "https://salesforcecodex.com/salesforce/ultimate-guide-to-url-accessibility-in-lwc/"
+  },
+  {
+      "title": "Streamlining Authentication: Custom Login Flow in Salesforce",
+      "url": "https://salesforcecodex.com/salesforce/streamlining-authentication-custom-login-flow-in-salesforce/"
+  },
+  {
+      "title": "Top 5 Salesforce Apex Features of Summer’24",
+      "url": "https://salesforcecodex.com/salesforce/top-5-salesforce-apex-features-of-summer24/"
+  },
+  {
+      "title": "How to Dynamically Evaluate Formulas in Salesforce Apex?",
+      "url": "https://salesforcecodex.com/salesforce/dynamic-formula-evaluation-in-salesforce/"
+  },
+  {
+      "title": "Implementing Apex Cursors for Optimal Resource Management in Salesforce",
+      "url": "https://salesforcecodex.com/salesforce/implementing-apex-cursors-for-optimal-resource-management-in-salesforce/"
+  },
+  {
+      "title": "Efficient Ways to Debug Salesforce Platform Events",
+      "url": "https://salesforcecodex.com/salesforce/efficient-ways-to-debug-salesforce-platform-events/"
+  },
+  {
+      "title": "How to Use Image Cropper in Salesforce Lightning Web Component",
+      "url": "https://salesforcecodex.com/salesforce/how-to-use-image-cropper-in-lwc-lightning-web-component/"
+  },
+  {
+      "title": "Appointment Assistance Real Time Location Url Generation",
+      "url": "https://salesforcecodex.com/salesforce/appointment-assistance-real-time-location-url-generation/"
+  },
+  {
+      "title": "Setting Up Live Chat with Salesforce Messaging",
+      "url": "https://salesforcecodex.com/salesforce/setting-up-live-chat-with-salesforce-messaging/"
+  },
+  {
+      "title": "Top Developer Features in Salesforce Spring ’24 Release",
+      "url": "https://salesforcecodex.com/salesforce/top-developer-features-in-salesforce-spring-24-release/"
+  }
+]
