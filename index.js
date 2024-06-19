@@ -10,7 +10,7 @@ const express = require("express");
 const app = express();
 const PORT = 8000;
 
-app.get("/articles",async (req,res) =>{
+app.get("/",async (req,res) =>{
   try {
     const data = await SalesforceEngineering();
     console.log('first',data);
