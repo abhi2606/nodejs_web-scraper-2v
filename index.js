@@ -11,7 +11,7 @@ const articles = require('./allArticles.json')
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.get("/",async (req,res) =>{
+app.get("/", (req,res) =>{
   try {
     const data = articles;
     //console.log('first',data);
