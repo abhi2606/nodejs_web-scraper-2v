@@ -16,7 +16,8 @@ const SalesforceEngineering = async () => {
       return {title,url};
     });
   }) ;
-  console.log(allArticles);
+  //console.log(allArticles);
+  return allArticles;
 };
 
 //SalesforceEngineering();
