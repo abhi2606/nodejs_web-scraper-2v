@@ -8,7 +8,7 @@ const SFBenDev = require("./SFBenDev");
 const express = require("express");
 
 const app = express();
-const PORT = 8000;
+const port = process.env.PORT || 3000;
 
 app.get("/",async (req,res) =>{
   try {
@@ -23,4 +23,4 @@ app.get("/",async (req,res) =>{
 });
 
 
-app.listen(PORT, () => console.log(`Server Started at PORT: `,{PORT}));
+app.listen(port, "0.0.0.0", () => console.log(`Server Started at PORT: `,{port}));
